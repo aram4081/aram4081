@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi everyone, just a random guy here ! 
+
+## About me :
+- 🔭 I’m currently looking forward to learn python for machine learning and C# for game development.
+- 🎯 My three main goals are getting the PCAP certficate, doing medecine studies and finishing Dark Souls 1 !
+- 🫱🏼‍🫲🏻 I'm colaborating with anyone whoever is willing to for making an indie game.
+- 💬 I can help for python, C# and SQL debugging
+- 📮 You can reach me via twitter or my mail
 
 <!--
 **aramslav/aramslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
