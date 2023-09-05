@@ -6,7 +6,6 @@
 - 🫱🏼‍🫲🏻 I'm colaborating with anyone whoever is willing to for making an indie game.
 - 💬 I can help for python, C# and SQL debugging.
 - 📮 You can reach me via twitter or my mail.
-- 🥰 My pronouns are He/Him.
 - ❤️ I like CS:GO, Central Cee and Hunter x Hunter.
 - ➕ I speak French (my native language), Arabic and English fluently. I speak Russian quite well and I'm learning Finnish and Turkish.
 
