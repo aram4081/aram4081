@@ -6,11 +6,12 @@
 - 🫱🏼‍🫲🏻 I'm colaborating with anyone whoever is willing to for making an indie game.
 - 💬 I can help for python, C# and SQL debugging.
 - 📮 You can reach me via twitter or my mail.
-- ❤️ I like CS:GO, Central Cee and Hunter x Hunter.
 - ➕ I speak French (my native language), Arabic and English fluently. I speak Russian quite well and I'm learning Finnish and Turkish.
 
 <!--
 **aramslav/aramslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- ❤️ I like CS:GO, Central Cee and Hunter x Hunter.
 
 Here are some ideas to get you started:
 
