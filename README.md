@@ -1,26 +1,9 @@
-### Hi everyone, just a random guy here ! 
+### Hi, just a random guy here ! 
 
 ## About me :
-- 🔭 I’m currently looking forward to learn python for machine learning and C# for game development.
-- 🎯 My three main goals are getting the PCAP certficate, doing medecine studies and finishing Dark Souls 1 !
-- 🫱🏼‍🫲🏻 I'm colaborating with anyone whoever is willing to for making an indie game.
-- 💬 I can help for python, C# and SQL debugging.
-- 📮 You can reach me via twitter or my mail.
-- ➕ I speak French (my native language), Arabic and English fluently. I speak Russian quite well and I'm learning Finnish and Turkish.
-
-<!--
-**aramslav/aramslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- ❤️ I like CS:GO, Central Cee and Hunter x Hunter.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking forward to learn python for machine learning and data science.
+- 🎯 My three main goals are getting the PCAP certficate, garduate in medecine and finishing the Dark Souls Series !
+- 🫱🏽‍🫲🏻 I'm colaborating with anyone whoever for any project (as long as it isn't rocket sciencse.
+- 💬 I can help for python debugging.
+- 📮 You can reach me via my mail or github.
+- ➕ I speak French (my native language), Arabic and English fluently. I start to speak Russian quite well and I'm now learning and Turkish.
